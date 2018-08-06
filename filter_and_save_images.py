@@ -84,10 +84,10 @@ def move_image_to_saved(path_to_file, new_directory):
 	
 def main():
 	# path to get splash screen images
-	path_to_splash_screens = 'test_files'
+	path_to_splash_screens = 'C:/Users/AdLin/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/Assets'
 	
 	# path to move filtered images to
-	new_path_to_saved_images = 'new_images'
+	new_path_to_saved_images = 'C:/Users/AdLin/Pictures/Spotlight'
 	
 	max_num_days_since_modified = 1
 	
